@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/DeekshaChauhan/pipleine%20new/_apis/build/status/deekshachauhan7.pipelines-java?branchName=main)](https://dev.azure.com/DeekshaChauhan/pipleine%20new/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
