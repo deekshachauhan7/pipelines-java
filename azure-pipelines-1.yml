@@ -21,4 +21,4 @@ steps:
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
 - task: PublishPipelineArtifact@1
-    displayName: 'Publish Pipeline Artifact'
+  displayName: 'Publish Pipeline Artifact'
